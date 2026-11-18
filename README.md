@@ -1,6 +1,6 @@
 # My Cybersecurity Journey: Starting from Cybersecurity 101
 
-Notes, commands and lab write-ups from my path into cybersecurity, with the long-term goal of working in **AI security**. I am learning on TryHackMe and documenting everything here in my own words.
+Notes, commands and lab write-ups from my path into cybersecurity, with the long-term goal of working in **AI security**. I am learning on TryHackMe and documenting everything here in my own words
 
 ## Progress
 
